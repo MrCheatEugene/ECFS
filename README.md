@@ -47,7 +47,7 @@ Are done with editing files?
 # Arduino sketch
 
 To start working with ECFS, you need to upload specific sketch to Arduino. It is called ecfs-api.ino and is available in Main branch of this repo.
-<br/>
+<br/>It uses AlexGyver's MSTRING library, you can download it [here](https://github.com/GyverLibs/mString)
 
 # Support me
 If you want to support me, you can donate me here: https://donationalerts.com/r/mrcheatt
